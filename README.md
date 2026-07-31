@@ -1,4 +1,4 @@
-# SawitPRO — AI Technical Interview Assignment
+# SawitPRO 
 
 Dua program AI: **palm tree counting** dari citra drone dan **apple color classification** dari gambar buah.
 
