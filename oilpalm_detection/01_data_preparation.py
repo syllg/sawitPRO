@@ -1,15 +1,8 @@
 """
-01_data_preparation.py
------------------------
-Migrasi dari 01_data_preparation.ipynb (Colab) ke script lokal.
-
 Fungsi:
   1. Membaca raster .tif, menampilkan metadata.
   2. Konversi raster float32 -> uint8 dengan brightness/contrast/gamma adjustment.
   3. Tiling raster menjadi 640x640 PNG tiles.
-
-Usage:
-  python 01_data_preparation.py
 """
 
 import os
