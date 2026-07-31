@@ -6,7 +6,7 @@ Dua program AI: **palm tree counting** dari citra drone dan **apple color classi
 
 ## 1. Program Count — Palm Tree Detection
 
-Mendeteksi dan menghitung pohon kelapa sawit pada `ai_assignment_20241202_count.jpeg` menggunakan **YOLOv12-N** & **YOLOv26-N** dengan tiled inference. Output berupa gambar JPEG dengan bounding box bernomor.
+Mendeteksi dan menghitung pohon kelapa sawit pada `ai_assignment_20241202_count.jpeg` menggunakan **YOLOv12-N** & **YOLOv26-N** dengan tiled inference. Output berupa gambar JPG dengan bounding box bernomor.
 
 | Model | Raw | NMS | Conf ≥ 0.40 | Avg Conf | Time |
 |-------|-----|-----|-------------|----------|------|
