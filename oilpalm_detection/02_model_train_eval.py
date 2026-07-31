@@ -1,16 +1,9 @@
 """
-02_model_train_eval.py
-----------------------
-Migrasi dari 02_model_train_eval.ipynb (Colab) ke script lokal.
-
 Fungsi:
   1. Download dataset dari Roboflow (YOLO format).
   2. Training model YOLO pada dataset oil palm.
   3. Validasi model (mAP, precision, recall).
   4. Evaluasi per-image dengan IoU matching.
-
-Usage:
-  python 02_model_train_eval.py
 """
 
 import os
