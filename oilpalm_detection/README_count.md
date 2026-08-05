@@ -103,3 +103,4 @@ Lihat `requirements_count.txt` untuk daftar lengkap.
 
 ## Reference
 - Dataset: [Oilpalm Tree Detection v2](https://universe.roboflow.com/mwahyur/oilpalm-tree-detection-vllsd) — 115 gambar anotasi YOLOv12 format, Roboflow Universe, License: MIT
+- Model: https://github.com/mwahyur46/oilpalm-tree-detection-yolov26
